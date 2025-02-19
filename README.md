@@ -1,1 +1,1 @@
-# DictoinaryAPP
+# DictinaryApp
